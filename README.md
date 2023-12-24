@@ -15,3 +15,4 @@ Projetos mais relevantes criandos nos cursos
 ## Projetos Feitos com Flutter
 * [BMI Calculator App](https://github.com/douglasadones/bmi_calculator_app)
 * [Clima App](https://github.com/douglasadones/Clima)
+* [Bitcoin Ticker](https://github.com/douglasadones/bitcoin-ticker/tree/main)
