@@ -1,4 +1,4 @@
-# Alguns Projetos Feitos Nos Cursos
+# Alguns Projetos Feitos
 Projetos mais relevantes criandos nos cursos
 ## Projetos Feitos com Python
 * [Birthday Wisher](https://github.com/douglasadones/Birthday_Wisher)
