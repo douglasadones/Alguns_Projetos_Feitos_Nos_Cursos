@@ -1,5 +1,4 @@
-# Alguns Projetos Feitos
-Projetos mais relevantes criandos nos cursos
+# Projetos mais relevantes criandos
 ## Projetos Feitos com Python
 * [Birthday Wisher](https://github.com/douglasadones/Birthday_Wisher)
 * [Flash Card App Capstone](https://github.com/douglasadones/Flash_Card_App_Capstone)
